@@ -1,0 +1,36 @@
+<html>
+    <header>
+        <a1> Персонажи </a1>
+        <a2> Локации </a2>
+        <a3> Способности вампиров </a3>
+        </header>
+        <article class="sumerki">
+            <p> Эдвард:
+                Вампир </p>
+            <img src="https://cdn.popcake.tv/wp-content/uploads/2022/02/pattinson-1140x660.jpg">
+        </article>
+        <article class="sumerki">
+            <p> Белла: Вампир </p>
+            <img src="https://s0.rbk.ru/v6_top_pics/media/img/7/48/755929272379487.jpg">
+        </article>
+       <article class="sumerki">
+            <p> Пол : Оборотень </p>
+            <img src="https://news.store.rambler.ru/img/1712fa58a5d3e83c3edf8d6eea0dece9?img-format=auto&img-1-resize=height:400,fit:max&img-2-filter=sharpen">
+        </article>
+        <article class="sumerki">
+        <p> Шарлотта : Вампир </p>
+            <img src="https://img.gazeta.ru/files3/201/16195201/1280x712_0xac120003_10259623011663757851-pic_32ratio_1200x800-1200x800-37777.jpg">
+        </article>
+        <article class="sumerki">
+        <p> Карлайл : Вампир </p>
+            <img src="https://i.movielib.ru/charpic/0579340/l/62bc/Karlajl_Kallen.jpg">
+        </article>
+        <article class="sumerki">
+        <p> Джаспер : Вампир </p>
+            <img src="https://u.livelib.ru/album/1000016263/o/hsgr743z/o-o.jpeg">
+        </article>
+    <main>
+        
+       
+    </main>
+    </html>
